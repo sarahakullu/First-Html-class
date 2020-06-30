@@ -1,0 +1,50 @@
+img {
+height: 200px;
+width: 200px;
+border-radius: 40px;
+margin-left: 550px;
+
+}
+h1 {
+color: red;
+text-align: center;
+font-size: x-large;
+background-color: chartreuse;
+display:block;
+border-radius: 40px;
+}
+
+body{
+    background-color:pink;
+    width: auto;
+}
+
+#profile_info {
+    color: blue;
+    background-color: saddlebrown;
+    padding: 5px;
+    font: italic;
+    display: inline-block;
+    text-align:center;
+    margin-left: 400px;
+    border-radius: 30px;
+
+}
+
+.profile_description {
+    padding-top: 7px;
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    background-color: sandybrown;
+    display: inline-block;
+    border-radius: 30px;
+    color: crimson;
+    margin-left: 350px;
+
+
+}
+h2 {
+    color: black;
+    text-align: center;
+}
